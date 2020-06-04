@@ -1,2 +1,0 @@
-# LaundryMan
-Laundry Business
